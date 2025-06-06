@@ -13,7 +13,7 @@ This is a repository for experimenting with the features of PkgTemplates.jl. Ste
 4. Fix `version = {v1.0.0-DEV}` to `version = {v0.0.1}` in `CITATION.bib`.
 5. Update `README.md`.
 
-# Install
+## Install
 
 Run the following code on the REPL or Jupyter Notebook to install this package.
 ```
