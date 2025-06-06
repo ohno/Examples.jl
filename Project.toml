@@ -1,0 +1,7 @@
+name = "Examples"
+uuid = "7fa7ce60-b9e6-47dd-892d-5c3039581c90"
+authors = ["Shuhei Ohno"]
+version = "0.0.1"
+
+[compat]
+julia = "1.11"
