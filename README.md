@@ -9,7 +9,7 @@ This is a repository for experimenting with the features of PkgTemplates.jl. Ste
 
 1. Create a new repository `Examples.jl` from the web UI.
 2. Run `dev/pkg.jl`.
-3. Move generated files to `Examples.jl/*`.
+3. Move and overwrite the generated files to `Examples.jl/*`.
 4. Fix `version = {v1.0.0-DEV}` to `version = {v0.0.1}` in `CITATION.bib`.
 5. Update `README.md`.
 
